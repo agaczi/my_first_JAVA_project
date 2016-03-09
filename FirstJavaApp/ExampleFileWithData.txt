@@ -1,0 +1,10 @@
+Marylin,Monroe,1950-01-18,600 000 000
+Dean,Martin, 1989-03-18,600 001 001
+Daniel,Defoe,1970-10-03,500 400 400
+Mel,Gibson,1980-11-11,698 376 477
+Claire,Banks,1975-09-09,856 736 524 
+Snoopy,The Dog,1995-12-01,579 902 099
+Garfield,The Cat,1991-06-01,
+Matt,Benks,1939-04-27,598 363 526
+Chow Chow,The Dog,1985-01-12,579 902 099
+Meow,The Cat,1931-01-08,
